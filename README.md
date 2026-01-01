@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="docs/architecture.svg" width="600"/>
+  <img src="docs/svgviewer-output.svg" width="600"/>
 </p>
