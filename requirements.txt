@@ -1,0 +1,28 @@
+# Web framework
+Flask
+
+# WebSocket / signalling
+Flask-SocketIO
+python-socketio
+
+# Async server for Flask-SocketIO
+eventlet
+
+# Optional: CORS handling
+Flask-Cors
+
+# Optional: SSL / HTTPS support
+pyOpenSSL
+
+# Optional: Environment variables
+python-dotenv
+
+# Optional: Production WSGI server
+gunicorn
+
+# Optional: YAML/JSON utilities
+PyYAML
+
+# Optional: AI / analytics (future)
+numpy
+opencv-python-headless
