@@ -18,7 +18,7 @@ A decentralised IoT surveillance gateway using WebRTC for ultra-low-latency, sec
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="docs/architecture.svg" alt="System Architecture" width="700"/>
+  <img src="docs/svgviewer-output.svg" alt="System Architecture" width="700"/>
 </p>
 
 ```
