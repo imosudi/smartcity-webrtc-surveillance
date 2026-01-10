@@ -1,5 +1,9 @@
 # Smart City WebRTC Surveillance 🎥
 
+<p align="center">
+  <img src="docs/svgviewer-output.svg" alt="System Architecture" width="700"/>
+</p>
+
 A decentralised IoT surveillance gateway using WebRTC for ultra-low-latency, secure, browser-native live video preview in smart city environments. The system combines peer-to-peer media delivery with a lightweight Flask–Socket.IO signalling plane and edge-based intelligence.
 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
@@ -14,10 +18,6 @@ A decentralised IoT surveillance gateway using WebRTC for ultra-low-latency, sec
 - **⚡ Edge Computing**: Lightweight signalling server for distributed deployments
 - **🏙️ Smart City Ready**: Scalable architecture for multi-zone surveillance
 - **📱 Real-Time**: Socket.IO for instant peer connection signalling
-
-<p align="center">
-  <img src="docs/svgviewer-output.svg" alt="System Architecture" width="700"/>
-</p>
 
 ## 🏗️ Architecture
 
