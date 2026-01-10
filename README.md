@@ -1,4 +1,4 @@
-# Smart City WebRTC Surveillance 🎥
+# Smart City WebRTC Surveillance 
 
 <p align="center">
   <img src="docs/svgviewer-output.svg" alt="System Architecture" width="700"/>
@@ -10,7 +10,7 @@ A decentralised IoT surveillance gateway using WebRTC for ultra-low-latency, sec
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/flask-latest-green.svg)](https://flask.palletsprojects.com/)
 
-## ✨ Features
+## Features
 
 - **🚀 Ultra-Low Latency**: WebRTC peer-to-peer streaming with <100ms latency
 - **🔒 Secure by Design**: DTLS-SRTP encrypted media streams, HTTPS/WSS signalling
@@ -19,7 +19,7 @@ A decentralised IoT surveillance gateway using WebRTC for ultra-low-latency, sec
 - **🏙️ Smart City Ready**: Scalable architecture for multi-zone surveillance
 - **📱 Real-Time**: Socket.IO for instant peer connection signalling
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────┐         ┌──────────────┐         ┌─────────────┐
@@ -45,14 +45,14 @@ A decentralised IoT surveillance gateway using WebRTC for ultra-low-latency, sec
   <img src="docs/webrtc-security-stack.svg" alt="Security Layers" width="600"/>
 </p>
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python 3.8 or higher
 - Modern web browser (Chrome, Firefox, Safari, Edge)
 - SSL certificate (self-signed or CA-issued)
 - Webcam or IP camera (for streaming)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -121,7 +121,7 @@ You should see output like:
 
 ```
 ==================================================
-🚀 WebRTC Surveillance Server Starting...
+ WebRTC Surveillance Server Starting...
 ==================================================
 🖥️  Hostname: your-hostname
 📍 Listening: 0.0.0.0:5000
@@ -308,7 +308,7 @@ body {
 </style>
 ```
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 smartcity-webrtc-surveillance/
@@ -349,11 +349,8 @@ smartcity-webrtc-surveillance/
 │   ├── nginx.conf                 # Reverse proxy setup
 │   └── systemd.service            # Linux service unit file
 │
-├── notes/                          # Development documentation
-│   └── smart-city-architecture.md # Architecture notes
-│
-└── __pycache__/                    # Python bytecode cache
-    └── app.cpython-312.pyc
+└── notes/                          # Development documentation
+    └── smart-city-architecture.md # Architecture notes
 ```
 
 ### Key Components
