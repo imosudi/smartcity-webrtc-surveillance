@@ -15,11 +15,11 @@ A decentralised IoT surveillance gateway using WebRTC for ultra-low-latency, sec
 - **🏙️ Smart City Ready**: Scalable architecture for multi-zone surveillance
 - **📱 Real-Time**: Socket.IO for instant peer connection signalling
 
-## 🏗️ Architecture
-
 <p align="center">
   <img src="docs/svgviewer-output.svg" alt="System Architecture" width="700"/>
 </p>
+
+## 🏗️ Architecture
 
 ```
 ┌─────────────┐         ┌──────────────┐         ┌─────────────┐
