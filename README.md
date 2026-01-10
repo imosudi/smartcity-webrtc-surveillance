@@ -390,7 +390,7 @@ Frontend technologies:
 
 See `requirements.txt` for the complete dependency list with version pinning.
 
-## 🔒 Security Considerations
+## Security Considerations
 
 ### Production Deployment
 
@@ -456,7 +456,7 @@ See `requirements.txt` for the complete dependency list with version pinning.
 - Data retention policies and access logs
 - Privacy impact assessments for public spaces
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### SSL Certificate Errors
 
@@ -520,7 +520,7 @@ See `requirements.txt` for the complete dependency list with version pinning.
 lsof -ti:5000 | xargs kill -9  # Linux/macOS
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -530,15 +530,15 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details.
 
-## 📧 Contact
+## Contact
 
 Project Link: [https://github.com/imosudi/smartcity-webrtc-surveillance](https://github.com/imosudi/smartcity-webrtc-surveillance)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - WebRTC API for real-time communication
 - Flask and Socket.IO communities
@@ -546,4 +546,4 @@ Project Link: [https://github.com/imosudi/smartcity-webrtc-surveillance](https:/
 
 ---
 
-**⚠️ Disclaimer**: This software is provided for educational and research purposes. Ensure compliance with local surveillance and privacy laws when deploying in production environments.
+** Disclaimer**: This software is provided for educational and research purposes. Ensure compliance with local surveillance and privacy laws when deploying in production environments.
