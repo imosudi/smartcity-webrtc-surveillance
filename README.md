@@ -145,7 +145,7 @@ https://localhost:5000
 
 **Note**: You may see a security warning for self-signed certificates. Click "Advanced" and proceed to continue.
 
-## 📱 Usage
+## Usage
 
 ### Edge Gateway – Camera Node (Publisher)
 
@@ -176,7 +176,7 @@ The console displays real-time Key Performance Indicators (KPIs):
 
 ![Dashboard in Action](screenshots/live-preview.png)
 
-## 🚀 Production Deployment
+## Production Deployment
 
 ### Running as a System Service
 
@@ -247,7 +247,7 @@ const iceServers = [
 ];
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Port Configuration
 
@@ -372,7 +372,7 @@ smartcity-webrtc-surveillance/
 - **`docs/`**: SVG diagrams for architecture, signaling flow, and security stack
 - **`screenshots/`**: Visual demonstrations of the platform in operation
 
-## 🛠️ Dependencies
+## Dependencies
 
 Core libraries powering the surveillance gateway:
 
